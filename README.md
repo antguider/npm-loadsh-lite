@@ -42,7 +42,7 @@ npm install lodash-lite
 
 ## Usage
 
-\`\`\`javascript
+
 import { get, chunk, debounce } from 'lodash-lite';
 
 // Get nested property safely
